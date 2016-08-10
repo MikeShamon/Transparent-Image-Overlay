@@ -1,0 +1,11 @@
+/* Working method */
+.tinted-image {
+  background: 
+    /* top, transparent red, faked with gradient */ 
+    linear-gradient(
+      rgba(242, 115, 44, 0.65), 
+      rgba(242, 115, 44, 0.65)
+    ),
+    /* bottom, image */
+    url(http://michaelangelohairstudio.visualedgedesign.com/wp-content/uploads/2016/07/BG-Offers.jpg);
+}
